@@ -119,7 +119,7 @@ const (
 	ServiceSettingsDefaultMaxURLLength           = 2048
 	ServiceSettingsMaxUniqueReactionsPerPost     = 500
 
-	TeamSettingsDefaultSiteName              = "Mattermost"
+	TeamSettingsDefaultSiteName              = "Nimbupani"
 	TeamSettingsDefaultMaxUsersPerTeam       = 50
 	TeamSettingsDefaultCustomBrandText       = ""
 	TeamSettingsDefaultCustomDescriptionText = ""

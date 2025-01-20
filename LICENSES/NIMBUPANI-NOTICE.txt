@@ -1,0 +1,28 @@
+NOTICE
+
+This NOTICE file is part of Nimbupani, owned and maintained by Jogsun Nimbupani Labs LLP.
+© 2024-present Jogsun Nimbupani Labs LLP. All rights reserved.
+
+----------------------------------------------------------------------
+
+Portions of this software are licensed under the Apache License, Version 2.0.
+Those portions are:
+
+1. Mattermost, Inc
+   - Copyright 2015-present Mattermost, Inc
+   - Source: https://github.com/mattermost/mattermost
+
+   Any modifications to the above component(s) are made by Jogsun Nimbupani Labs LLP.
+
+----------------------------------------------------------------------
+
+Additional Notices:
+
+- This product bundles or references code from other projects that may have their 
+  own licenses and notices. For full license text, see [LICENSE or LICENSES/ folder]. 
+- Trademarks referenced in this file are the property of their respective owners
+  and are used here for identification purposes only.
+
+----------------------------------------------------------------------
+
+End of NOTICE
